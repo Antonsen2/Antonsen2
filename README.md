@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Welcome to my profile page!
 
+<h1>Programming Languages</h1>
+
 <!--
 **Antonsen2/Antonsen2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
